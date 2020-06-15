@@ -2,7 +2,9 @@
 Created for an "Getting Started in Unity" L&amp;L I made to get people familiar with the tool, using AR Foundation to demonstrate.
 
 Original demonstration adapted from the AR Foundation demonstratin in Unite Germany 2018
+
 https://www.youtube.com/watch?v=MqA0XhfKIE0
+
 https://github.com/Unity-Technologies/arfoundation-samples 
 
 Full experience is to be able to build a simple AR mobile app to iOS and Android using ARKit and ARCore respectively.
